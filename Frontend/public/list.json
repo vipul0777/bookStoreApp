@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Books are a uniquely portable magic",
+        "price": 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1713340234~exp=1713343834~hmac=8e33d16c324fe2ebf46f6ca7107874e2675b90587d7a4c716032f7cf233ad30f&w=740"
+    },
+    {
+        "id":2,
+        "name":"MSD Book",
+        "title":"Books are a uniquely portable magic",
+        "price": 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1713340234~exp=1713343834~hmac=8e33d16c324fe2ebf46f6ca7107874e2675b90587d7a4c716032f7cf233ad30f&w=740"
+    },{
+        "id":3,
+        "name":"Classical Book",
+        "title":"Books are a uniquely portable magic",
+        "price": 50,
+        "category":"music",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1713340234~exp=1713343834~hmac=8e33d16c324fe2ebf46f6ca7107874e2675b90587d7a4c716032f7cf233ad30f&w=740"
+    },{
+        "id":4,
+        "name":"Jungle Book",
+        "title":"Books are a uniquely portable magic",
+        "price": 60,
+        "category":"Adventure",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1713340234~exp=1713343834~hmac=8e33d16c324fe2ebf46f6ca7107874e2675b90587d7a4c716032f7cf233ad30f&w=740"
+    },{
+        "id":5,
+        "name":"Scariest Book",
+        "title":"Books are a uniquely portable magic",
+        "price": 100,
+        "category":"Horror",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1713340234~exp=1713343834~hmac=8e33d16c324fe2ebf46f6ca7107874e2675b90587d7a4c716032f7cf233ad30f&w=740"
+    },{
+        "id":6,
+        "name":"Poetry Book",
+        "title":"Books are a uniquely portable magic",
+        "price": 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1713340234~exp=1713343834~hmac=8e33d16c324fe2ebf46f6ca7107874e2675b90587d7a4c716032f7cf233ad30f&w=740"
+    },{
+        "id":7,
+        "name":"Short Book",
+        "title":"Books are a uniquely portable magic",
+        "price": 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1713340234~exp=1713343834~hmac=8e33d16c324fe2ebf46f6ca7107874e2675b90587d7a4c716032f7cf233ad30f&w=740"
+    },{
+        "id":8,
+        "name":"Young Adult",
+        "title":"Books are a uniquely portable magic",
+        "price": 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1713340234~exp=1713343834~hmac=8e33d16c324fe2ebf46f6ca7107874e2675b90587d7a4c716032f7cf233ad30f&w=740"
+    },
+    {
+        "id":9,
+        "name":"War Book",
+        "title":"Books are a uniquely portable magic",
+        "price": 120,
+        "category":"Action",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1713340234~exp=1713343834~hmac=8e33d16c324fe2ebf46f6ca7107874e2675b90587d7a4c716032f7cf233ad30f&w=740"
+    },{
+        "id":10,
+        "name":"Thriller Book",
+        "title":"Books are a uniquely portable magic",
+        "price": 150,
+        "category":"Suspence",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1713340234~exp=1713343834~hmac=8e33d16c324fe2ebf46f6ca7107874e2675b90587d7a4c716032f7cf233ad30f&w=740"
+    }
+]
